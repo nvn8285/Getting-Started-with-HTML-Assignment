@@ -1,0 +1,11 @@
+Question no-5
+What is DOCTYPE Declaration in HTML ?
+
+Answer- DOCTYPE Declaration is also known as DOCTYPE it's a first line code in html 
+It shows the version of html and gives information about the html version to the webpage  
+and to the code editor like what  is the version of html. 
+new version of html is html5 and D
+octype also provides the render information to 
+the browser according to the html version it also helps the html users like what version they are using.
+
+Example - <!DOCTYPE html>

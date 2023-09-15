@@ -1,0 +1,27 @@
+Question no /4- Write a short note on tag and element with an example ?
+
+Answer- tag is a part of html markup language and it provides a complete tag 
+Solution to the editor in html there are many tags in html like h1 h2 h3 <p> tag 
+<br> tag <div> tag there are both closing and opening tags and opening tag also like<br> and <hr> .tag 
+ give complete  format in html like <html> </html> 
+it's a most important tag in our boilerplate in html 
+we can say it  parent of all tags in html tags 
+we write all tags like h1, header, main, footer tags give a format and structure of our web page 
+there are 142 html tags in new version of html and it provides a complete formatting in html . 
+
+                    Example of Tag
+opning tag  <html> text </html>  closing tag 
+
+
+
+About element - main element is html element it is a root element we can say it's a big element 
+In html <html> </html> if  we add content in tag 
+we can say complete element just for an example <h1> 
+This is a heading </h1> now its a complete element with the inner content html element holds 
+the content html element starts with < and ends with > we can it angular bracket 
+
+Example of Element 
+
+<h1>text</h1> its a complete element conten complete text with tag called complete element 
+
+
